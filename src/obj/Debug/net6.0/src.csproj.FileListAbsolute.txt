@@ -1,0 +1,15 @@
+c:\Users\bergi\Code\repos\MuseetTDD\src\bin\Debug\net6.0\src.exe
+c:\Users\bergi\Code\repos\MuseetTDD\src\bin\Debug\net6.0\src.deps.json
+c:\Users\bergi\Code\repos\MuseetTDD\src\bin\Debug\net6.0\src.runtimeconfig.json
+c:\Users\bergi\Code\repos\MuseetTDD\src\bin\Debug\net6.0\src.dll
+c:\Users\bergi\Code\repos\MuseetTDD\src\bin\Debug\net6.0\ref\src.dll
+c:\Users\bergi\Code\repos\MuseetTDD\src\bin\Debug\net6.0\src.pdb
+c:\Users\bergi\Code\repos\MuseetTDD\src\obj\Debug\net6.0\src.csproj.AssemblyReference.cache
+c:\Users\bergi\Code\repos\MuseetTDD\src\obj\Debug\net6.0\src.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bergi\Code\repos\MuseetTDD\src\obj\Debug\net6.0\src.AssemblyInfoInputs.cache
+c:\Users\bergi\Code\repos\MuseetTDD\src\obj\Debug\net6.0\src.AssemblyInfo.cs
+c:\Users\bergi\Code\repos\MuseetTDD\src\obj\Debug\net6.0\src.csproj.CoreCompileInputs.cache
+c:\Users\bergi\Code\repos\MuseetTDD\src\obj\Debug\net6.0\src.dll
+c:\Users\bergi\Code\repos\MuseetTDD\src\obj\Debug\net6.0\ref\src.dll
+c:\Users\bergi\Code\repos\MuseetTDD\src\obj\Debug\net6.0\src.pdb
+c:\Users\bergi\Code\repos\MuseetTDD\src\obj\Debug\net6.0\src.genruntimeconfig.cache
